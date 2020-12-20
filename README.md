@@ -1,4 +1,9 @@
-### Hi there 👋 . I am Md. Asif Iqbal Fahim. Kaggler and Computer Vision Researcher. 
+### Hi!
+### My Experience : 
+         Kaggler.
+         Computer Vision Researcher.
+         Native Android Developer(Java & Kotlin)
+         Web Developer(Django)
 ## My GitHub Stats -
   
   ![Github Stats By Md. Asif Iqbal Fahim](https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
