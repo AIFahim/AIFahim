@@ -6,7 +6,7 @@
          Web Developer(Django , Flask , React , JS)
          Devops(Entry Level)
 ### GitHub Stats -
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![AIFahim GitHub stats](https://github-readme-stats.vercel.app/api?username=AIFahim)](https://github.com/anuraghazra/github-readme-stats)
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![AIFahim GitHub stats](https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> </p>
  
 ### Find me at Kaggle - 
