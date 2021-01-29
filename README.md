@@ -8,6 +8,7 @@
 ## My GitHub Stats -
   
   ![Github Stats By Md. Asif Iqbal Fahim](https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
+  [![AIFahim GitHub stats](https://github-readme-stats.vercel.app/api?username=AIFahim)](https://github.com/anuraghazra/github-readme-stats)
   
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> </p>
  
