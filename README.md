@@ -11,13 +11,12 @@
    <!-- ![Github Stats By Md. Asif Iqbal Fahim](https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  -->
     
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![AIFahim GitHub stats](https://github-readme-stats.vercel.app/api?username=AIFahim)](https://github.com/anuraghazra/github-readme-stats)
-  
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> </p>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> </p>
  
  
 ### Data Science StackExchange Profile -
    
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://datascience.stackexchange.com/users/109134/md-asif-iqbal-fahim?tab=profile"><img src="https://user-images.githubusercontent.com/33654834/106259183-133f9200-6249-11eb-95e4-c43ce2bd0d33.png" width="250" height="300" alt="profile for Md. Asif Iqbal Fahim at Data Science Stack Exchange, Q&amp;A for professional and enthusiast programmers" title="profile for Md. Asif Iqbal Fahim at Stack Change DS, Q&amp;A for professional and enthusiast Data Scientist"></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  <a href="https://datascience.stackexchange.com/users/109134/md-asif-iqbal-fahim?tab=profile"><img src="https://user-images.githubusercontent.com/33654834/106259183-133f9200-6249-11eb-95e4-c43ce2bd0d33.png" width="250" height="300" alt="profile for Md. Asif Iqbal Fahim at Data Science Stack Exchange, Q&amp;A for professional and enthusiast programmers" title="profile for Md. Asif Iqbal Fahim at Stack Change DS, Q&amp;A for professional and enthusiast Data Scientist"></a>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIFahim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
