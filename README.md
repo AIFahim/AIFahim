@@ -1,4 +1,3 @@
-### Hi!!!
 ### Experiences: 
          Kaggle 2x Expert.
          Computer Vision Researcher.
