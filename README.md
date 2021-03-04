@@ -4,15 +4,15 @@
          Native Android Developer(Java & Kotlin)
          Web Developer(Django , Flask , React , JS)
          Devops(Entry Level)
-### GitHub Stats -
+### GitHub Stats:
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![AIFahim GitHub stats](https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> </p>
  
-### Find me at Kaggle - 
+### Find me at Kaggle:
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <a href="https://www.kaggle.com/aifahim"><img src="https://user-images.githubusercontent.com/33654834/106263129-2bfe7680-624e-11eb-9886-9b82089e6885.png" width="1000" height="300" alt="profile for Md. Asif Iqbal Fahim at Kaggle" title="profile for Md. Asif Iqbal Fahim at Kaggle, World Best Data Science community"></a>
  
 
-### Find me at Data Science StackExchange -
+### Find me at Data Science StackExchange:
 <p align="center">
 <a href="https://stackexchange.com/users/18447196/md-asif-iqbal-fahim"><img src="https://stackexchange.com/users/flair/18447196.png" width="208" height="58" alt="profile for Md. Asif Iqbal Fahim on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Md. Asif Iqbal Fahim on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a></p>
 
