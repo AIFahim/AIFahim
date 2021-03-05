@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> </p>
-
 ## Experiences:   
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical"/>](https://github.com/AIFahim/)
@@ -14,15 +12,14 @@
  - Native Android Developer(Java & Kotlin)
 ### Web Devoloper
  - Web Developer(Django , Flask , React , JS)
-## Others
+### Others
  - Devops(Entry Level)
   
   International AI-based Dhaka Traffic Detection Challenge
   
 <hr>
 
-### GitHub Stats <img src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> :
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![AIFahim GitHub stats](https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
    
 <hr> 
  
@@ -35,6 +32,9 @@ Kaggle Expert(x2) , Handler: AIFahim          |  Data Science Stack Exchange (25
  <p><img align='right' src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> </p>
  
  <!--
+
+### GitHub Stats <img src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> :
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![AIFahim GitHub stats](https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> </p>
  
@@ -49,6 +49,7 @@ Kaggle Expert(x2) , Handler: AIFahim          |  Data Science Stack Exchange (25
 
 
 <!--
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 ![Github Stats By Md. Asif Iqbal Fahim](https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIFahim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
