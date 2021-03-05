@@ -16,10 +16,6 @@
  - Devops(Entry Level)
   
   International AI-based Dhaka Traffic Detection Challenge
-  
-<hr>
-
-
    
 <hr> 
  
