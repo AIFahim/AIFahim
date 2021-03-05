@@ -7,11 +7,11 @@
  - Kaggle 2x Expert.
  - Computer Vision Researcher (Undergrad & Kaggle) .
  - Dhaka AI Core Team (Image Acquisition) @International AI-based Dhaka Traffic Detection Challenge
-## Android
+### Android
  - Android Development Intern @
 Skill Development For Mobile Game And Application Project(Govt.Project)
  - Native Android Developer(Java & Kotlin)
-## Web Devoloper
+### Web Devoloper
  - Web Developer(Django , Flask , React , JS)
 ## Others
  - Devops(Entry Level)
