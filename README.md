@@ -1,9 +1,9 @@
 ### Experiences: 
-         Kaggle 2x Expert.
-         Computer Vision Researcher.
-         Native Android Developer(Java & Kotlin)
-         Web Developer(Django , Flask , React , JS)
-         Devops(Entry Level)
+      - Kaggle 2x Expert.
+      - Computer Vision Researcher.
+      - Native Android Developer(Java & Kotlin)
+      - Web Developer(Django , Flask , React , JS)
+      - Devops(Entry Level)
 ### GitHub Stats <img src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> :
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![AIFahim GitHub stats](https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    
