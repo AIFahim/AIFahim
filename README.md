@@ -3,17 +3,17 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical"/>](https://github.com/AIFahim/)
  
 ### Data Science :
- - ⚡ NLP Mentor @Deeplearing.ai
- - ⚡ Kaggle 2x Expert.
- - ⚡ Computer Vision Researcher (Undergrad & Kaggle) .
- - ⚡ Dhaka AI Core Team (Image Acquisition) @International AI-based Dhaka Traffic Detection Challenge
+ ⚡ NLP Mentor @Deeplearing.ai
+ ⚡ Kaggle 2x Expert.
+ ⚡ Computer Vision Researcher (Undergrad & Kaggle) .
+ ⚡ Dhaka AI Core Team (Image Acquisition) @International AI-based Dhaka Traffic Detection Challenge
 ### Android
- - ⚡ Android Development Intern @Skill Development For Mobile Game And Application Project(Govt.Project)
- - ⚡ Native Android Developer(Java & Kotlin)
+ ⚡ Android Development Intern @Skill Development For Mobile Game And Application Project(Govt.Project)
+ ⚡ Native Android Developer(Java & Kotlin)
 ### Web Devoloper
- - ⚡ Web Developer(Django , Flask , React , JS)
+ ⚡ Web Developer(Django , Flask , React , JS)
 ### Others
- - ⚡ Devops(Entry Level)
+ ⚡ Devops(Entry Level)
   
   International AI-based Dhaka Traffic Detection Challenge
    
