@@ -1,4 +1,6 @@
 ### Experiences: 
+
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical"/>](https://github.com/AIFahim/)
  
  - NLP Mentor @ Deeplearing.ai
  - Kaggle 2x Expert.
