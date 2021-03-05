@@ -1,5 +1,6 @@
 ### Experiences: 
-  
+ 
+ - NLP Mentor @ Deeplearing.ai
  - Kaggle 2x Expert.
  - Computer Vision Researcher.
  - Native Android Developer(Java & Kotlin)
