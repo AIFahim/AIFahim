@@ -11,7 +11,7 @@
  
 Kaggle           |  Data Science Stack Exchange        
 :-------------------------:|:------------------------:
-<img src = "https://user-images.githubusercontent.com/33654834/106263129-2bfe7680-624e-11eb-9886-9b82089e6885.png" /> | <img src = "https://user-images.githubusercontent.com/33654834/106263129-2bfe7680-624e-11eb-9886-9b82089e6885.png" /> 
+<img src = "https://user-images.githubusercontent.com/33654834/106263129-2bfe7680-624e-11eb-9886-9b82089e6885.png" /> | <img src = "https://stackexchange.com/users/flair/18447196.png" /> 
 
  
  
