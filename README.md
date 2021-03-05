@@ -1,8 +1,8 @@
-### Experiences: 
+## Experiences: 
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical"/>](https://github.com/AIFahim/)
  
-## Data Science :
+### Data Science :
  - NLP Mentor @Deeplearing.ai
  - Kaggle 2x Expert.
  - Computer Vision Researcher (Undergrad & Kaggle) .
