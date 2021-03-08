@@ -18,7 +18,7 @@
    
 <hr> 
  
-### Data Science Activities 
+### Data Science Communities Activities 
  
 Kaggle Expert(x2) , Handler: AIFahim          |  Data Science Stack Exchange (250+ Reputation) , Handler: AIFahim        
 :-------------------------:|:------------------------:
