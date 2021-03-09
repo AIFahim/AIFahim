@@ -10,7 +10,7 @@
 ### Android
  - ⚡ Android Development Intern @Skill Development For Mobile Game And Application Project(Govt.Project)
  - ⚡ Native Android Developer(Java & Kotlin)
-### Web Devoloper
+### Web
  - ⚡ Web Developer(Django , Flask , React , JS)
 ### Others
  - ⚡ Devops(Entry Level)
