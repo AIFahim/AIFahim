@@ -26,7 +26,28 @@ Kaggle Expert(x2) , Handler: AIFahim          |  Data Science Stack Exchange (25
 
  <p><img align='right' src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> </p>
  
+ 
+ |              | Own | Forked |
+|:------------:|:---:|:------:|
+| DataScience  |     |        |
+|   Android    |     |        |
+|    Websites  |     |        |
+|   Telegram   |     |        |
+|      IOT     |     |        |
+|   Documents  |     |        |
+|    Others    |     |        |
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
  <!--
+
+ #########################################################################################################################################################
 
 ### GitHub Stats <img src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> :
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![AIFahim GitHub stats](https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,6 +61,8 @@ Kaggle Expert(x2) , Handler: AIFahim          |  Data Science Stack Exchange (25
 ### Find me at Data Science StackExchange:
 <p align="center">
 <a href="https://stackexchange.com/users/18447196/md-asif-iqbal-fahim"><img src="https://stackexchange.com/users/flair/18447196.png" width="208" height="58" alt="profile for Md. Asif Iqbal Fahim on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Md. Asif Iqbal Fahim on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a></p>
+
+
 
 
 
