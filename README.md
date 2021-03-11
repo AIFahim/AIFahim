@@ -88,9 +88,9 @@ Kaggle Expert(x2) , Handler: AIFahim          |  Data Science Stack Exchange (25
  
  
  
- One    | Two | Three | Four    | Five  | Six
--|||||-
-Span <td colspan=3>triple  <td colspan=2>double
+| One    | Two | Three | Four    | Five  | Six
+|-|-|-|-|-|-
+| Span <td colspan=3>triple  <td colspan=2>double
  
  
 
