@@ -1,4 +1,4 @@
-Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Fahim
+Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">, I'm Fahim
 ## Experiences:   
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical"/>](https://github.com/AIFahim/)
