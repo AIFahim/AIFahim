@@ -5,7 +5,7 @@
  
 ### Data Science :
  - ⚡ NLP Mentor @Deeplearing.ai
- - ⚡ Kaggle 2x Expert.
+ - ⚡ Kaggle Competitions Expert(x2).
  - ⚡ Computer Vision Researcher (Undergrad & Kaggle) .
  - ⚡ Dhaka AI Core Team (Image Acquisition) @International AI-based Dhaka Traffic Detection Challenge
 ### Android
