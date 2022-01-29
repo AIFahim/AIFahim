@@ -25,7 +25,7 @@
  
 Kaggle Expert(x2) , Handler: AIFahim          |  Data Science Stack Exchange (250+ Reputation) , Handler: AIFahim        
 :-------------------------:|:------------------------:
-![subinium](https://road-to-kaggle-grandmaster.vercel.app/api/simple/subinium) <br>  ![AIFaim](https://road-to-kaggle-grandmaster.vercel.app/api/badges/AIFahim/competition) ![AIFaim](https://road-to-kaggle-grandmaster.vercel.app/api/badges/AIFahim/discussion) | <a href="https://stackexchange.com/users/18447196/md-asif-iqbal-fahim"><img src="https://stackexchange.com/users/flair/18447196.png" width="220" height="70" alt="profile for Md. Asif Iqbal Fahim on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Md. Asif Iqbal Fahim on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+![AIFahim](https://road-to-kaggle-grandmaster.vercel.app/api/simple/AIFahim) <br>  ![AIFaim](https://road-to-kaggle-grandmaster.vercel.app/api/badges/AIFahim/competition) ![AIFaim](https://road-to-kaggle-grandmaster.vercel.app/api/badges/AIFahim/discussion) | <a href="https://stackexchange.com/users/18447196/md-asif-iqbal-fahim"><img src="https://stackexchange.com/users/flair/18447196.png" width="220" height="70" alt="profile for Md. Asif Iqbal Fahim on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Md. Asif Iqbal Fahim on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
  <p><img align='right' src="https://komarev.com/ghpvc/?username=AIFahim" alt="AIFahim" /> </p>
  
