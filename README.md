@@ -3,17 +3,8 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical"/>](https://github.com/AIFahim/)
  
-### Data Science :
  - ⚡ NLP Mentor @Deeplearing.ai
  - ⚡ Kaggle Competitions Expert(x2).
- - ⚡ Computer Vision Researcher (Undergrad & Kaggle) .
- - ⚡ Dhaka AI Core Team (Image Acquisition) @International AI-based Dhaka Traffic Detection Challenge
-### Android
- - ⚡ Android Development Intern @Skill Development For Mobile Game And Application Project(Govt.Project)
- - ⚡ Native Android Developer(Java & Kotlin)
-### Web
- - ⚡ Web Developer(Flask , React , JS)
-### Others
  - ⚡ Devops(Entry Level)
   
    
