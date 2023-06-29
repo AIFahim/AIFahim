@@ -1,10 +1,10 @@
 # <!--Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="39px">, -->I'm [Fahim](https://aifahim.github.io/)<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="70px">
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical"/>](https://github.com/AIFahim/)
- 
+
+ - ⚡ Machine Learning Engineer @REVE System Ltd.
  - ⚡ NLP Mentor @Deeplearing.ai
  - ⚡ Kaggle Competitions Expert(x2).
- - ⚡ Devops(Entry Level)
   
    
 <hr> 
