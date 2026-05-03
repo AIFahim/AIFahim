@@ -2,7 +2,7 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=AIFahim&show_icons=true&theme=radical"/>](https://github.com/AIFahim/)
 
- - ⚡ AI Engineer @Infinitibit.
+ - ⚡ Doctoral Researcher @University College Dublin.
  - ⚡ NLP Mentor @Deeplearing.ai | Advisor @Kaggle BIPOC Program
  - ⚡ Kaggle Competitions Expert(x2).
   
